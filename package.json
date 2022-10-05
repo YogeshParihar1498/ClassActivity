@@ -1,0 +1,23 @@
+{
+  "name": "classactivity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YogeshParihar1498/ClassActivity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YogeshParihar1498/ClassActivity/issues"
+  },
+  "homepage": "https://github.com/YogeshParihar1498/ClassActivity#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
